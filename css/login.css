@@ -1,0 +1,63 @@
+body{
+	background-image:url(../imagens/background.jpg);
+	height:100%;
+}
+#geral{
+	width: 300px;
+	height: 200px;
+	background:#FFF;
+	position:relative;
+	top:50%;
+	left:50%;
+	margin-top:-60px;
+	margin-left:-150px;
+	color:#000000;
+}
+
+#titulo{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#666666;
+	border-bottom:#999999 dashed 1px;
+	margin-bottom:10px;
+}
+
+#geral td{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666666;
+}
+
+input{
+	width:100%;
+}
+
+table{
+	width:90%;
+}
+
+.banner{
+  background:url(../imagens/censo_fundo_login.jpg) center no-repeat;
+  position:relative;
+  height:203px;
+  margin-top:-203px;
+  background-color:#ffffff;
+}
+
+#geral2{
+	width: 700px;
+	height: 400px;
+	background:#FFF;
+	position:relative;
+	top:50%;
+	left:50%;
+	margin-top:-200px;
+	margin-left:-350px;
+	color:#000000;
+}
+
+.pessoas{
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+}

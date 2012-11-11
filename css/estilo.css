@@ -1,0 +1,44 @@
+body{
+	background-image: url("../imagens/background.jpg");
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.fundo{
+	background-image: url("../imagens/layout_r5_c1.jpg");
+	
+}
+
+#page{
+	position: relative;
+	width:950px;
+	left: 50%;
+	top: 0px;
+	margin-top: 0px;
+	margin-left: -475px;
+	x-index: 1;
+}
+
+#nome{
+	background-color: #FFF;
+	position: absolute;
+	height: 30px;
+	width: 300px;
+	left:50%;
+	margin-left:150px;
+	top: 140px;
+	x-index: 2;	
+	text-align:right;
+	font-size:11px;
+	font-family: Arial;
+}
+
+#conteudo{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: Arial;
+}
+
+.sair{
+	color:#000;
+}

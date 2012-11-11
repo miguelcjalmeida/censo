@@ -1,0 +1,132 @@
+@charset "utf-8";
+
+#gridgridTable .rowTitle{
+	background:#F0F0F0;
+}
+
+
+#gridgridTable a{
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	text-decoration:none;
+}
+
+#gridgridTable {
+    border-bottom:solid 1px #CCCCCC;
+	border-top:solid 1px #CCCCCC;
+}
+#gridgridTable th{
+    background-color: #F0F0F0;   
+}
+
+#gridgridTable .row{
+	background:white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+#gridgridTable .rowOver{
+	background:#CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+#gridgridTable .rowSelected{
+	background:#111111;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+#gridgridTable .rowOverSelected{
+	background:white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+
+#gridgridTable .row2{
+	background:#E7EBE1;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+#gridgridTable .row2Over{
+	background: #CCCCCC;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+
+#gridgridTable .row2Selected{
+	background:#d0d0d0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+#gridgridTable .row2OverSelected{
+	background:#E7EBE1;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+
+.gridSearch{
+	border:solid 1px #CCCCCC;
+	border-bottom:none;
+	font-family:"arial";
+	font-size:12px;
+	background-color: #E4E4E4;
+	color: #666666;
+}
+
+
+.gridBottom{
+	border:solid 1px #CCCCCC;
+	border-top:none;
+	font-family:"arial";
+	font-size:12px;
+	font-color:#666666;
+	background: #E4E4E4;
+}
+
+
+#grid{
+	height:600px;
+	width:700px;
+}
+
+
+.enabled{
+	color:#666666;
+	font-weight:bold;
+	text-decoration:none;
+	cursor:pointer;
+}
+.disabled{
+	color: #CCCCCC;
+    font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+
+.pagina{
+    color:#333333;
+	font-weight:101;
+	padding-left:5px;
+	padding-right:5px;
+	text-decoration:none;
+	cursor:pointer;
+}
+#griddiv{
+	width:98%;
+	padding-bottom:10px;
+	width:800px;
+	font-size:10px;
+	margin-left: 40px;
+}
+.paginaatual{
+	font-style:normal;
+	font-weight:bold;
+	padding-left:5px;
+	padding-right:5px;
+	text-decoration:none;
+	color:#333333;
+	font-size:15px;
+}
+.noitemmsg{
+	border:1px solid #000000;
+}
